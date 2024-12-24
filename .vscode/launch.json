@@ -1,0 +1,171 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "test_8acd2d3e"
+    },
+    {
+      "type": "java",
+      "name": "SLTKNGHT",
+      "request": "launch",
+      "mainClass": "SLTKNGHT",
+      "projectName": "test_8acd2d3e"
+    },
+    {
+      "type": "java",
+      "name": "BTFNUM",
+      "request": "launch",
+      "mainClass": "BTFNUM",
+      "projectName": "test_8acd2d3e"
+    },
+    {
+      "type": "java",
+      "name": "OTTGAME",
+      "request": "launch",
+      "mainClass": "OTTGAME",
+      "projectName": "test_8acd2d3e"
+    },
+    {
+      "type": "java",
+      "name": "PTRNLOCK",
+      "request": "launch",
+      "mainClass": "PTRNLOCK",
+      "projectName": "test_8acd2d3e"
+    },
+    {
+      "type": "java",
+      "name": "MAXSYMST",
+      "request": "launch",
+      "mainClass": "MAXSYMST",
+      "projectName": "test_8acd2d3e"
+    },
+    {
+      "type": "java",
+      "name": "CNTSYMST",
+      "request": "launch",
+      "mainClass": "CNTSYMST",
+      "projectName": "test_8acd2d3e"
+    },
+    {
+      "type": "java",
+      "name": "FNDSTR",
+      "request": "launch",
+      "mainClass": "FNDSTR",
+      "projectName": "test_8acd2d3e"
+    },
+    {
+      "type": "java",
+      "name": "ABSYSE",
+      "request": "launch",
+      "mainClass": "ABSYSE",
+      "projectName": "test_8acd2d3e"
+    },
+    {
+      "type": "java",
+      "name": "TOANDFRO",
+      "request": "launch",
+      "mainClass": "TOANDFRO",
+      "projectName": "test_8acd2d3e"
+    },
+    {
+      "type": "java",
+      "name": "FM",
+      "request": "launch",
+      "mainClass": "FM",
+      "projectName": "test_8acd2d3e"
+    },
+    {
+      "type": "java",
+      "name": "LOGOSYM",
+      "request": "launch",
+      "mainClass": "LOGOSYM",
+      "projectName": "test_8acd2d3e"
+    },
+    {
+      "type": "java",
+      "name": "OVCOBS",
+      "request": "launch",
+      "mainClass": "OVCOBS",
+      "projectName": "test_8acd2d3e"
+    },
+    {
+      "type": "java",
+      "name": "CHKSDK",
+      "request": "launch",
+      "mainClass": "CHKSDK",
+      "projectName": "test_8acd2d3e"
+    },
+    {
+      "type": "java",
+      "name": "BLDTWR",
+      "request": "launch",
+      "mainClass": "BLDTWR",
+      "projectName": "test_8acd2d3e"
+    },
+    {
+      "type": "java",
+      "name": "FSTDUP",
+      "request": "launch",
+      "mainClass": "FSTDUP",
+      "projectName": "test_8acd2d3e"
+    },
+    {
+      "type": "java",
+      "name": "QUE1E",
+      "request": "launch",
+      "mainClass": "QUE1E",
+      "projectName": "test_8acd2d3e"
+    },
+    {
+      "type": "java",
+      "name": "PAIRS1E",
+      "request": "launch",
+      "mainClass": "PAIRS1E",
+      "projectName": "test_8acd2d3e"
+    },
+    {
+      "type": "java",
+      "name": "QKPE",
+      "request": "launch",
+      "mainClass": "QKPE",
+      "projectName": "test_8acd2d3e"
+    },
+    {
+      "type": "java",
+      "name": "PROBO6",
+      "request": "launch",
+      "mainClass": "PROBO6",
+      "projectName": "test_8acd2d3e"
+    },
+    {
+      "type": "java",
+      "name": "PROBO3",
+      "request": "launch",
+      "mainClass": "PROBO3",
+      "projectName": "test_8acd2d3e"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/vscode/test",
+      "program": "d:/vscode/test/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
